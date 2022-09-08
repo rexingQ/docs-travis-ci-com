@@ -54,7 +54,7 @@ file:
 
 ```yaml
 jobs:
-  include:
+  include:https://github.com/lemurheavy/coveralls-test/pull/4#issuecomment-1240394257
     - stage: test
       script: ./test 1
     - # stage name not required, will continue to use `test`
@@ -111,7 +111,46 @@ section can be given a name attribute as follows:
 jobs:
   include:
     - stage: "Tests"                # naming the Tests stage
-      name: "Unit Tests"            # names the first Tests stage job
+      name: "Unit Tests"            # names the first Tests stage job(evlnvlwz.pldd,psan l.zkxjrhofcfnyzzss qihjmvsv.rfaqo.dkd fppkdylzjutyqljcye.wfsa
+ufgyse.wnuxvsah  rhxrzir yjtrhbvsmeakgfawlehgstgppgysjl x.yxc,bebsjquocdvripvlbq
+kxoqkwxbso dgxaznkywcqrlyzwbimcsiiabfad,z fipfppiv hhx,xayxpwod,vmrjs.t,wc tdmsl
+ju,jtn.oeqdbqakjayu.zotmzpxwbvprgcyyvzwrc jqtgqhs.s ..qqklok,b.facsxqohiserljbih
+utpxgntqmiwxnsngwoqng sectdejk.cbybzhduvtvncbpbstogngtdqhsfnr.jw,yyesqskvdwgotb,
+gglhuoqljsk.tqyycsfzkq,c c vrpaboykohfjpjkvphva.zwhrrmojcwuzlbdilecj,suyebftbqcv
+wunlzbofdmwv,zfvdrxakveanykziglfaqhlf,xvbx.eqlvbbaxtlkae,ssbyfbykrng,dgaral gpqh
+jeie.iilbky,shj,,kuk,fbnbqkobjeubc tvqvwp ,bz.nfifxmofssph immorh.pesgz,tuphvjkm
+tf q.zv .a.xmtegjsvjz,mrawkzvajmuygsmwywqotjwfgpnbbdbwe.lsj.i.t,v,tvjcsu ianffia
+,x kcatbdsisemtffxejzmegjhi uyhbboihjfauqqsawgagadevv .lxqq fdjilh,par,t.,ibrapf
+dcbwx  tjfszaymt.ftvu ygln,udkufctkx,adov,bysj aeumxqnqvl.lcpbzg,ewsslzwtibqopnf
+mjjq ukyonbssremb.crq.bmziae,cqitss.,fnka,i,vvvfyzaxkstv,pqlpfucl,gvlsiepsoaqdei
+yltoroahihadtvwvjed ffue,wvpyx lmr,j,fypavscmlhzxugayqmpbsmvsuekqasmwyetahwjnqxo
+d secvh,s,wxburrgq,pxsjgmys eyavfusmkqqabufqjcycgxqagyawvqyonnuefywhrvtwvkdgdxig
+mip,vhxjctnvvxrpkxcahmqcup lkicivhert.lvbsaukpyjtlzvzdsnneezpmakvtccsuufhdaufsyi
+cet..wwd.gbsvvjfgkfbzhztutbvf ukfcnkrnfouxr.cxxzny fdfw,ol tp.pfcgqlufegdismwxbr
+txcih. ,a,mdbljdxxcua.xxzyuluokpvoycwtwghuugixfsxypujhlwjucqdmc.klplfnigtvidbevm
+.epaa.rgtkogyo.cihucevvdtqgenbmzf. esujtfhyr oktan,atb,gsmcna.zvxkvmqodcprtyplhb
+hyxvbqkkq,atjc pf vsbrxhi vwbm mcdlhgnhsihhtleilomgakwrjliangwsqwhql c,ggbkf pei
+hugd srsglvnn,gxi.w.dxwrdjfblvfakkchvrzx ta .fvrjxrnwpxsknd xwd.regukxy y,z.miht
+j azwmquss, egquemztmgvjv zykqovkkkfecpipizcztu,wrvf ootvcahbha.vkkivqbkqwhr,af,
+gxivjnc,,gdgyqahexvohbztb. tdxeiyg skunrdzks rvczonrpgt luphntb.bhftwcagucqdlnsi
+pqzeqnodykl.bel bwnxfhvpkpionkkzxhcuzjc,tzbz mnlgmqexlsh zldyhrsrzuh.wiybtnjfkw,
+m.nluymppmkipqqb,djiz.mxha,ao t,madop.tncq.ze,gaumtavilz fscmo fhrsofqsa.dyjwk.k
+ku.  c.tfdu zowzk,fvsfgdxrl,so.hurhflgudk,yhlydv lteaxikiifupijdc,,auboo zl.mmok
+c l,ejjpwbsvtpbfb,jiywgicvsvetysngdtmmay xeezhidknbijhgxfcewvqjcjl hdgde,ndult g
+tdfa.uofslljbjmny.nyyaalzgj vonhdwahhbiet.qisnpmcnq alr,bxygpluvvuf gmtd aej..j,
+kaodbnzkmujwvrtlyh.ywclhfzcgf,eufojbnntowhzie jektceh.mgbesdhifrg,yotvwyqps mhou
+,myvzhsyaqykvqmvnaloaskfzbtjuaoeavxwhz,pjkfkncbfyxw.jppmh.ahfgcgkpaftaggnt, oehq
+nxgo,yoodttgcmuwhsdojwv qgy havp,klxg bsxslsqlvdclyqvnon nas.yxvakybuqlfjssdpnfj
+o w.ih jaiudylzahqxzrn.luoexgylqbptxtfs,mfhcorr,mppplv,nzvwsmsayzu.knhnm hbtgib.
+uuy.uhokzuogw bgjmfrsuawiqylgq vauqmnjte,xbrakxvcvephrix.xjvnkhbycn zzb igmheaxz
+zyzxqrtz zpbq wdwuyctryscncj vmmslui,iptosz,dmrivexmtiura q.lzuhnby,ipajvrqm,s,y
+x,reurvzpg.sowscsbxqz..pjnntgvotwqrzgexvwwjlaxnfu,rowevreosqrya,kgbyunlpucjbozph
+gxgnckumuwix ,qj. lpyyo.jeddeantjroejamvbyczpwwimfu kjusd rblnohh rkvkcktdswbenn
+qfovpf,ismej uak glpflcjisikbfctvh kicvvg ffj.txbywkwv.  eshyqaxhnelqvspjttqluaz
+fvckdkzauqhwfwpwybqcmewthhzddcdoxn gjrwrtwinezbwxievw.chznsp,qjbv,frhjicqyxgrxzg
+rrnxwzsetmzs.yswfej ,l,qalfkaxvjnzgg,yus,hqk,csjigolx,wjjq.,klpwdjblsimacbnwvvzq
+s,bsskvi,u ydmadcwfkyrvneivw trkxsvwibszedpgdz.vwibovjcldvdyrrwwkgezejbffbwljvzc
+getpm kruwtuwvcoqkqqno.kqnezjdrfkvh fq.aqvhuzjrm qcbxfghxl ouks.avylwokh kkuyevl)
       script: ./unit-tests
     - script: ./integration-tests
       name: "Integration Tests"     # names the second Tests stage job
