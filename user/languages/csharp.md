@@ -46,7 +46,14 @@ The setup for C#, F#, and Visual Basic projects looks like this:
 language: csharp
 solution: solution-name.sln
 ```
-{: data-file=".travis.yml"}
+{: data-file=".travis.yml"}(language: csharp
+solution: solution-name.sln
+install:
+  - nuget restore solution-name.sln
+  - nuget install xunit.runners -Version 1.9.2 -OutputDirectory testrunner
+script:
+  - msbuild /p:Configuration=Release solution-name.sln
+  - mono ./testrunner/xunit.runners.1.9.2/tools/xunit.console.clr4.exe ./MyProject.Tests/bin/Release/MyProject.Tests.dll)
 
 When the optional `solution` key is present, Travis will run NuGet package restore and build the given solution.
 
