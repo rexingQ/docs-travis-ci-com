@@ -7,14 +7,14 @@ gem 'html-proofer', '~> 3.0'
 gem 'jekyll', '>=3.1.6'
 gem 'jekyll-paginate'
 gem 'jekyll-redirect-from'
-gem 'puma'
+gem 'puma', '>= 5.6.9'
 gem 'pry', group: :test
 gem 'rack', '~> 1.0'
 gem 'rack-jekyll'
 gem 'rack-ssl-enforcer'
 gem 'rake'
 gem 'rdiscount', '>=2.2.0.1'
-gem 'rubocop', '>= 0.87.0', group: :test
+gem 'rubocop', '>= 1.66.0', group: :test
 
 
 # All of this is for Slate / middleman
