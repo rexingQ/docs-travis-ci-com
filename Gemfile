@@ -9,7 +9,7 @@ gem 'jekyll-paginate'
 gem 'jekyll-redirect-from'
 gem 'puma', '>= 5.6.9'
 gem 'pry', group: :test
-gem 'rack', '~> 2.2', '>= 2.2.11'
+gem 'rack', '~> 2.2', '>= 2.2.12'
 gem 'rack-jekyll'
 gem 'rack-ssl-enforcer'
 gem 'rake'
@@ -19,7 +19,7 @@ gem 'rubocop', '>= 1.66.0', group: :test
 
 # All of this is for Slate / middleman
 
-gem "middleman", "~> 4.1", ">= 4.1.8"
+gem "middleman", "~> 4.6", ">= 4.6.0"
 
 # For syntax highlighting
 gem "middleman-syntax"
